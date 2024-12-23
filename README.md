@@ -2,6 +2,7 @@
 The material available on this repository contains the results and suplementary materials for
 article currently under review process for the article entitled: 
 Application of Symbolic Classifiers and Multi-Ensemble Threshold Techniques for Android Malware Detection
+It should be noted that the investigation was conducted on the publically available dataset: https://www.kaggle.com/datasets/joebeachcapital/tuandromd
 The material contains the best symbolic expressions obtained using GPSC with following dataset variations: 
 1. Dataset with 241 input variables (all input variables)
 2. Dataset with reduced number of input variables using Random Forest Classifier
